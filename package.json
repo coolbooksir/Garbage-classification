@@ -18,5 +18,17 @@
     "@vue/cli-plugin-vuex": "^4.1.0",
     "@vue/cli-service": "^4.1.0",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "description": "```\r 自己封装了一个导航栏组件",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolbooksir/Garbage-classification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolbooksir/Garbage-classification/issues"
+  },
+  "homepage": "https://github.com/coolbooksir/Garbage-classification#readme"
 }
