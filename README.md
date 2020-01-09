@@ -1,26 +1,20 @@
-# Vue-Navigation-components
+# 垃圾分类网站
 
-## Project setup
+## 1
 ```
-自己封装了一个导航栏组件
-
-1、进到项目目录下
-
-2、执行npm install安装vue、vue-cli相关依赖
+1
 ```
 
-### Compiles and hot-reloads for development
+### 1.1
 ```
-执行npm run serve，启动本地服务
-
-在浏览器打开http://localhost:8080
+1
 
 ```
 
-### Compiles and minifies for production
+### 1.2
 ```
-npm run build
+1
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 1.3
+
